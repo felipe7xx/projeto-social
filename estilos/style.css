@@ -62,7 +62,7 @@ section#redes-sociais img:hover{
     border: 2px solid rgba(255, 255, 255, 0.76);
     box-shadow: 5px 5px 10px rgb(0, 0, 0);
     transform: translate(-3px, -3px);
-    transition: transform 1s, border 1s;
+    transition: transform 0.5s, border 1s;
 }
 
 section#acesse-redes-sociais{
@@ -80,7 +80,7 @@ section#acesse-redes-sociais img:hover{
     border: 2px solid #ffffff75;
     box-shadow: 5px 5px 10px rgb(0.0, 0, 0);
     transform: translate(3px, -3px);
-    transition: 1s, border 1s;
+    transition: 0.5s, border 1s;
 }
 
 p{
@@ -93,4 +93,8 @@ p{
     font-weight: bolder;
     width: 170px;
     font-family: "Merriweather", serif;
+}
+
+p:hover{
+    box-shadow: inset 0 0 0 25px #53a7ea;
 }
