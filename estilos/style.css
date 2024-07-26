@@ -94,7 +94,3 @@ p{
     width: 170px;
     font-family: "Merriweather", serif;
 }
-
-p:hover{
-    box-shadow: inset 0 0 0 25px #53a7ea;
-}
